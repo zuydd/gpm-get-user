@@ -8,7 +8,7 @@
 > [!WARNING]
 > Mọi hành vi buôn bán script dưới bất cứ hình thức nào đều không được cho phép!
 
-Tải về phiên bản mới nhất của script [tại đây ⬇️]([https://github.com/downloads/zuydd/gpm-get-user/main/ref_get_user.gpmcode](https://github.com/zuydd/gpm-get-user/blob/main/ref_get_user.gpmcode))
+Tải về phiên bản mới nhất của script [tại đây ⬇️]([https://github.com/downloads/zuydd/gpm-get-user/main/ref_get_user.gpmcode](https://github.com/zuydd/gpm-get-user/blob/main/ref_get_user.gpmcode)
 
 Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr4
 
@@ -23,8 +23,6 @@ Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr
 </details>
 
 ## 🎁 Donate
-
-🌟 Kêu gọi ủng hộ 🌟
 
 Chúng tôi rất vui được chia sẻ các mã script và tài nguyên mã nguồn miễn phí đến cộng đồng làm airdrop. Nếu bạn thấy các công cụ và tài liệu của chúng tôi hữu ích và muốn ủng hộ chúng tôi tiếp tục phát triển và duy trì các dự án này, bạn có thể đóng góp hỗ trợ qua hình thức donate.
 

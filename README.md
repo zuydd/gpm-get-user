@@ -6,7 +6,7 @@
 <a href="https://t.me/zuydd"><img src="https://raw.githubusercontent.com/zuydd/image/main/telegram.svg" alt="Telegram"></a>
 
 > [!WARNING]
-> Mọi hành vi buôn bán tool dưới bất cứ hình thức nào đều không được cho phép!
+> Mọi hành vi buôn bán script dưới bất cứ hình thức nào đều không được cho phép!
 
 Tải về phiên bản mới nhất của script [tại đây ⬇️]([https://github.com/downloads/zuydd/gpm-get-user/main/ref_get_user.gpmcode](https://github.com/zuydd/gpm-get-user/blob/main/ref_get_user.gpmcode))
 

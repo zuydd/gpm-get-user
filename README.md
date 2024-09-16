@@ -8,7 +8,7 @@
 > [!WARNING]
 > Mọi hành vi buôn bán tool dưới bất cứ hình thức nào đều không được cho phép!
 
-Tải về phiên bản mới nhất của script [tại đây ⬇️](https://raw.githubusercontent.com/zuydd/gpm-get-user/main/ref_get_user.gpmcode)
+Tải về phiên bản mới nhất của script [tại đây ⬇️](https://github.com/downloads/zuydd/gpm-get-user/main/ref_get_user.gpmcode)
 
 Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr4
 
@@ -20,9 +20,6 @@ Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr
 <summary>v0.0.1 - 📅 16/09/2024</summary>
   
 - Chia sẻ script tới cộng đồng
-</details>
-  
-- Fix bug
 </details>
 
 ## 🎁 Donate

@@ -1,6 +1,6 @@
 # Script Ref/Get User data tất cả bot Telegram by ZuyDD
 
-**Tool phát triển và chia sẻ miễn phí bởi ZuyDD**
+**Script phát triển và chia sẻ miễn phí bởi ZuyDD**
 
 <a href="https://www.facebook.com/zuy.dd"><img src="https://raw.githubusercontent.com/zuydd/image/main/facebook.svg" alt="Facebook"></a>
 <a href="https://t.me/zuydd"><img src="https://raw.githubusercontent.com/zuydd/image/main/telegram.svg" alt="Telegram"></a>

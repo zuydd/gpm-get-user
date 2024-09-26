@@ -14,8 +14,13 @@ Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr
 
 ## 🔄 Lịch sử cập nhật
 
-> Phiên bản mới nhất: `v0.0.1`
+> Phiên bản mới nhất: `v0.0.2`
 
+<details>
+<summary>v0.0.2 - 📅 26/09/2024</summary>
+  
+- Lưu thêm link iframe vào cột D
+</details>
 <details>
 <summary>v0.0.1 - 📅 16/09/2024</summary>
   

@@ -8,7 +8,7 @@
 > [!WARNING]
 > Mọi hành vi buôn bán script dưới bất cứ hình thức nào đều không được cho phép!
 
-Tải về phiên bản mới nhất của script [tại đây ⬇️](https://github.com/zuydd/gpm-get-user/blob/main/ref_get_iframe_user-by-zuydd-v0.0.2.gpmcode)
+Tải về phiên bản mới nhất của script [tại đây ⬇️](https://github.com/zuydd/gpm-get-user/blob/main/ref_get_iframe_user-by-zuydd-v0.0.3.gpmcode)
 
 Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr4
 

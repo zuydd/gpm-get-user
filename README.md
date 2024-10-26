@@ -14,8 +14,13 @@ Hướng dẫn sử dụng xem tại: https://www.youtube.com/watch?v=GnFceu2Kbr
 
 ## 🔄 Lịch sử cập nhật
 
-> Phiên bản mới nhất: `v0.0.2`
+> Phiên bản mới nhất: `v0.0.3`
 
+<details>
+<summary>v0.0.3 - 📅 26/09/2024</summary>
+  
+- Đổi server
+</details>
 <details>
 <summary>v0.0.2 - 📅 26/09/2024</summary>
   
